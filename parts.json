@@ -1,7 +1,170 @@
 {
   "prefix": "2129",
-  "nextCounters": {},
+  "nextCounters": {
+    "": 33
+  },
   "nextAssemblyCounters": {},
-  "entries": {},
+  "entries": {
+    "CustomSystemCore-ASSY.SLDASM": {
+      "partNumber": "2129-001",
+      "assignedAt": "2026-05-10T18:41:32.161Z",
+      "type": "assembly"
+    },
+    "RASPBERRY_PI_5_1.SLDASM": {
+      "partNumber": "2129-002",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "assembly"
+    },
+    "SLOT_CARD_ASM.SLDASM": {
+      "partNumber": "2129-003",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "assembly"
+    },
+    "2.0_PIN_HEADER.SLDPRT": {
+      "partNumber": "2129-004",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "2xUSB_2.0_PORT.SLDPRT": {
+      "partNumber": "2129-005",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "2xUSB_3.0_PORT.SLDPRT": {
+      "partNumber": "2129-006",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "3.0_PIN_HEADER_10.SLDPRT": {
+      "partNumber": "2129-007",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "9FD77_D9WHV.SLDPRT": {
+      "partNumber": "2129-008",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "BROADCOM_1.SLDPRT": {
+      "partNumber": "2129-009",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "BUTTON_2.SLDPRT": {
+      "partNumber": "2129-010",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "BUTTON_MINI.SLDPRT": {
+      "partNumber": "2129-011",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "Base_Plate.SLDPRT": {
+      "partNumber": "2129-012",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "CAMERA_DISPLAY_1.SLDPRT": {
+      "partNumber": "2129-013",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "CAMERA_DISPLAY_2.SLDPRT": {
+      "partNumber": "2129-014",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "CARD_SLOT_METAL_PIN.SLDPRT": {
+      "partNumber": "2129-015",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "CONNECT_V1.SLDPRT": {
+      "partNumber": "2129-016",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "FEMALE_MICRO_HDMI_CONNECTOR.SLDPRT": {
+      "partNumber": "2129-017",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "FEMALE_USB_CONNECTOR.SLDPRT": {
+      "partNumber": "2129-018",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "GIGABIT_ETHERNET_PORT.SLDPRT": {
+      "partNumber": "2129-019",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "GIGABIT_ETHERNET_TRANSCEIVER.SLDPRT": {
+      "partNumber": "2129-020",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "Logo raspberry.SLDPRT": {
+      "partNumber": "2129-021",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "METAL_PLATE..SLDPRT": {
+      "partNumber": "2129-022",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "MxL.SLDPRT": {
+      "partNumber": "2129-023",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "PART3_V1.SLDPRT": {
+      "partNumber": "2129-024",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "PLATE_RASPBERRY_PI_5.SLDPRT": {
+      "partNumber": "2129-025",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "RP1_CO_CONTROLLER.SLDPRT": {
+      "partNumber": "2129-026",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "SD_CARD_V1.SLDPRT": {
+      "partNumber": "2129-027",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "STOCK_1.SLDPRT": {
+      "partNumber": "2129-028",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "STOCK_2.SLDPRT": {
+      "partNumber": "2129-029",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "STOCK_3.SLDPRT": {
+      "partNumber": "2129-030",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "UCAN_ V1.0.SLDPRT": {
+      "partNumber": "2129-031",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    },
+    "pi-pico-2w-cad-reference.SLDPRT": {
+      "partNumber": "2129-032",
+      "assignedAt": "2026-05-10T18:41:32.164Z",
+      "type": "part"
+    }
+  },
   "assemblies": {}
 }
