@@ -1,7 +1,7 @@
 {
   "prefix": "26-2129",
   "nextCounters": {
-    "": 43
+    "": 45
   },
   "nextAssemblyCounters": {},
   "entries": {
@@ -215,6 +215,16 @@
     "26-2129-042.sldprt": {
       "partNumber": "26-2129-042",
       "assignedAt": "2026-05-11T02:17:12.345Z",
+      "type": "part"
+    },
+    "26-2129-042.SLDPRT": {
+      "partNumber": "26-2129-043",
+      "assignedAt": "2026-05-11T02:17:25.368Z",
+      "type": "part"
+    },
+    "~$26-2129-042.SLDPRT": {
+      "partNumber": "26-2129-044",
+      "assignedAt": "2026-05-11T02:17:25.949Z",
       "type": "part"
     }
   },
